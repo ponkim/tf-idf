@@ -1,0 +1,89 @@
+<CITIZEN 1>     <2%>
+        Soft! who comes here?
+
+</CITIZEN 1>
+<STAGE DIR>
+<Enter Menenius Agrippa.>
+</STAGE DIR>
+<CITIZEN 2>     <2%>
+        Worthy Menenius Agrippa; one that hath always loved the people.
+</CITIZEN 2>
+
+<CITIZEN 1>     <2%>
+        He's one honest enough: would all the rest were so!
+</CITIZEN 1>
+</CHARMIAN>
+
+<SOOTHSAYER>    <3%>
+        You shall be more beloving than belov'd.
+</SOOTHSAYER>
+
+<CHARMIAN>      <3%>
+        I had rather heat my liver with drinking.
+</CHARMIAN>
+
+<ALEXAS>        <3%>
+        Nay, hear him.
+</ALEXAS>
+
+<CHARMIAN>      <3%>
+        Good now, some excellent fortune! Let me be married to three kings in a forenoon, and widow them all; let me have a child at fifty, to whom Herod of Jewry may do homage; find me to marry me with Octavius Cæsar, and companion me with my mistress.
+</CHARMIAN>
+
+
+<CAPULET>       <3%>
+        My sword, I say! Old Montague is come,
+        And flourishes his blade in spite of me.
+
+</CAPULET>
+<STAGE DIR>
+<Enter Montague and Lady Montague.>
+</STAGE DIR>
+<MONTAGUE>      <4%>
+        Thou villain Capulet! Hold me not; let me go.
+</MONTAGUE>
+
+<LADY MONTAGUE> <4%>
+        Thou shalt not stir one foot to seek a foe.
+
+</LADY MONTAGUE>
+<STAGE DIR>
+<Enter Prince with his Train.>
+</STAGE DIR>
+<PRINCE>        <4%>
+        Rebellious subjects, enemies to peace,
+        Profaners of this neighbour-stained steel,—
+        Will they not hear? What ho! you men, you beasts,
+        That quench the fire of your pernicious rage
+        With purple fountains issuing from your veins,
+        On pain of torture, from those bloody hands
+        Throw your mis-temper'd weapons to the ground,
+        And hear the sentence of your moved prince.
+        Three civil brawls, bred of an airy word,
+        By thee, old Capulet, and Montague,
+        Have thrice disturb'd the quiet of our streets,
+        And made Verona's ancient citizens
+        Cast by their grave beseeming ornaments,
+        To wield old partisans, in hands as old,
+        Canker'd with peace, to part your canker'd hate.
+        If ever you disturb our streets again
+        Your lives shall pay the forfeit of the peace.
+        For this time, all the rest depart away:
+        You, Capulet, shall go along with me;
+        And, Montague, come you this afternoon
+        To know our further pleasure in this case,
+        To old Free-town, our common judgment-place.
+        Once more, on pain of death, all men depart.
+</PRINCE>
+<STAGE DIR>
+<Exeunt all but Montague, Lady Montague, and Benvolio.>
+</STAGE DIR>
+
+<MONTAGUE>      <4%>
+        Who set this ancient quarrel new a-broach?
+        Speak, nephew, were you by when it began?
+</MONTAGUE>
+
+<BENVOLIO>      <4%>
+                                                 331,1          4%
+
